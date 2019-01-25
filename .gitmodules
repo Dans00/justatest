@@ -1,5 +1,5 @@
 [submodule "python-diku-ml"]
-    path = python-diku-ml
-    url = git@github.com:dan00/python-diku-ml.git
+	path = python-diku-ml
+	url = git@github.com:dans00/python-diku-ml.git
 #commit = 4956ab1a8fbe600e12c9990f9a1bdfcf8c64da8d
 #branch = develop
